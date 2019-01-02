@@ -37,7 +37,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 https://github.com/sammerro/multiplyup-old-cli-2/
 
 ### TODO:
-##### change answers as a buttons not divs
+##### change answers to buttons not divs
 ##### answer chosen by keys 1,2,3,4 and info for user about keyboard usage.
 ##### addons -Timer 
 ##### View for end-game like points, time etc

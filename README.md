@@ -1,7 +1,7 @@
 # multiplyup
 
 ## Working link
-https://sammerro.github.io
+https://sammerro.github.io/multiplyup/
 
 ## Project setup
 ```
